@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Playground.umap"
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Playground.umap",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_IA.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Base.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Ranged.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Bullet.uasset"
 			]
 		}
 	]
