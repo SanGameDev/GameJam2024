@@ -9,7 +9,11 @@
 				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_IA.uasset",
 				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Base.uasset",
 				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Ranged.uasset",
-				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Bullet.uasset"
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Bullet.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Boss.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/MAt.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
 	]
