@@ -98,7 +98,15 @@
 				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/__ExternalActors__/CarlosCarpeta/Levels/CarlosMap/7/ZV/362O9I3P7814FG0E42B17Z.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/__ExternalActors__/CarlosCarpeta/Levels/CarlosMap/7/IT/L68LU85TLFVFZB9C2B44YQ.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/__ExternalActors__/CarlosCarpeta/Levels/CarlosMap/8/I6/CRUR8MK6IYJKHRU6R4F67P.uasset",
-				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Levels/CarlosMap.umap"
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Levels/CarlosMap.umap",
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Blueprints/MainMenu_WG.uasset",
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Levels/MainMenuMap.umap",
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Blueprints/GameOverUI_WG.uasset",
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Blueprints/GameplayUI_WG.uasset",
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Blueprints/PauseUI_WG.uasset",
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Blueprints/VictoryUI_WG.uasset",
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/CarlosCarpeta/Blueprints/MainMenu_GM.uasset",
+				"C:/Users/Alumnos/Documents/GitHub/GameJam2024/GameJam/Content/TopDown/Blueprints/BP_TopDownController.uasset"
 			]
 		}
 	]
