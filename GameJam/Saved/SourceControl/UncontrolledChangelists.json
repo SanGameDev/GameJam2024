@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"D:/Git/GameJam2024/GameJam/Content/Developers/SanGameDev/Input/IA_Movement.uasset",
 				"D:/Git/GameJam2024/GameJam/Content/Developers/SanGameDev/Input/IMC_Player.uasset",
 				"D:/Git/GameJam2024/GameJam/Content/Developers/SanGameDev/BP_TOPDOWNVACA.uasset",
@@ -136,6 +137,13 @@
 				"C:/Academico/GameJam2024/GameJam/Content/HordeSystem/_TestActors/_TestEnemyA.uasset",
 				"C:/Academico/GameJam2024/GameJam/Content/HordeSystem/_TestActors/_TestEnemyB.uasset"
 >>>>>>> origin/HordeTesting
+=======
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Playground.umap",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_IA.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Base.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Ranged.uasset",
+				"C:/Users/Luis/Documents/GitHub/GameJam2024/GameJam/Content/IA_Enemies/Enemies/BP_Enemie_Bullet.uasset"
+>>>>>>> origin/Luis-Elias
 			]
 		}
 	]
